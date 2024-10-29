@@ -4,96 +4,197 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eHe55D351YFknPJLXxiH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="eHe55D351YFknPJLXxiH-3">
+        <mxCell id="eHe55D351YFknPJLXxiH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="eHe55D351YFknPJLXxiH-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="60" as="sourcePoint" />
+            <mxPoint x="285" y="40" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="280" y="130" />
-              <mxPoint x="280" y="130" />
+              <mxPoint x="285" y="110" />
+              <mxPoint x="285" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eHe55D351YFknPJLXxiH-1" value="Receiving one off rejected ballot data?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="220" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="eHe55D351YFknPJLXxiH-1" value="Receiving one off rejected ballot data?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="225" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eHe55D351YFknPJLXxiH-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="eHe55D351YFknPJLXxiH-5">
+        <mxCell id="eHe55D351YFknPJLXxiH-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="eHe55D351YFknPJLXxiH-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="60" as="sourcePoint" />
+            <mxPoint x="625" y="40" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eHe55D351YFknPJLXxiH-2" value="Received a raw CSV or Excel file?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="560" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="eHe55D351YFknPJLXxiH-2" value="Received a raw CSV or Excel file?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="565" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eHe55D351YFknPJLXxiH-3" value="Enter into the Google Sheets template." style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="235" y="145" width="90" height="90" as="geometry" />
+        <mxCell id="eHe55D351YFknPJLXxiH-3" value="Enter into the Google Sheets template." style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="240" y="110" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="eHe55D351YFknPJLXxiH-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eHe55D351YFknPJLXxiH-5" target="eHe55D351YFknPJLXxiH-37">
+        <mxCell id="eHe55D351YFknPJLXxiH-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eHe55D351YFknPJLXxiH-5" target="eHe55D351YFknPJLXxiH-37" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="190" as="targetPoint" />
+            <mxPoint x="505" y="155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eHe55D351YFknPJLXxiH-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eHe55D351YFknPJLXxiH-5" target="eHe55D351YFknPJLXxiH-29">
+        <mxCell id="eHe55D351YFknPJLXxiH-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eHe55D351YFknPJLXxiH-5" target="eHe55D351YFknPJLXxiH-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eHe55D351YFknPJLXxiH-5" value="Is it 50 rows or more?" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="560" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="eHe55D351YFknPJLXxiH-5" value="Is it 50 rows or more?" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="565" y="125" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eHe55D351YFknPJLXxiH-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="eHe55D351YFknPJLXxiH-3">
+        <mxCell id="eHe55D351YFknPJLXxiH-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="eHe55D351YFknPJLXxiH-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="190" as="sourcePoint" />
+            <mxPoint x="415" y="155" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eHe55D351YFknPJLXxiH-29" value="Submit on the Google Form" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="570" y="280" width="100" height="100" as="geometry" />
+        <mxCell id="eHe55D351YFknPJLXxiH-29" value="Submit on the Google Form" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="575" y="225" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="eHe55D351YFknPJLXxiH-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eHe55D351YFknPJLXxiH-31" target="eHe55D351YFknPJLXxiH-38">
+        <mxCell id="eHe55D351YFknPJLXxiH-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="eHe55D351YFknPJLXxiH-38" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="430" as="targetPoint" />
+            <mxPoint x="285" y="345" as="targetPoint" />
+            <mxPoint x="285" y="275" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eHe55D351YFknPJLXxiH-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eHe55D351YFknPJLXxiH-31" target="eHe55D351YFknPJLXxiH-39">
+        <mxCell id="eHe55D351YFknPJLXxiH-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eHe55D351YFknPJLXxiH-31" target="eHe55D351YFknPJLXxiH-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eHe55D351YFknPJLXxiH-31" value="Is it 50 rows or more?" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="220" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="eHe55D351YFknPJLXxiH-31" value="Is it 50 rows or more?" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="225" y="245" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eHe55D351YFknPJLXxiH-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="eHe55D351YFknPJLXxiH-31">
+        <mxCell id="eHe55D351YFknPJLXxiH-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="eHe55D351YFknPJLXxiH-31" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="279.5" y="235" as="sourcePoint" />
-            <mxPoint x="280" y="320" as="targetPoint" />
+            <mxPoint x="284.5" y="200" as="sourcePoint" />
+            <mxPoint x="285" y="285" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eHe55D351YFknPJLXxiH-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eHe55D351YFknPJLXxiH-38">
+        <mxCell id="eHe55D351YFknPJLXxiH-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="eHe55D351YFknPJLXxiH-38" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="490" as="sourcePoint" />
-            <mxPoint x="235" y="190" as="targetPoint" />
+            <mxPoint x="255" y="455" as="sourcePoint" />
+            <mxPoint x="240" y="155" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="150" y="480" />
-              <mxPoint x="150" y="190" />
+              <mxPoint x="155" y="395" />
+              <mxPoint x="155" y="155" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eHe55D351YFknPJLXxiH-37" value="No" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="410" y="150" width="80" height="80" as="geometry" />
+        <mxCell id="eHe55D351YFknPJLXxiH-37" value="No" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="415" y="115" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eHe55D351YFknPJLXxiH-38" value="No" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="240" y="440" width="80" height="80" as="geometry" />
+        <mxCell id="eHe55D351YFknPJLXxiH-38" value="No" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="245" y="355" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eHe55D351YFknPJLXxiH-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eHe55D351YFknPJLXxiH-39" target="eHe55D351YFknPJLXxiH-29">
+        <mxCell id="eHe55D351YFknPJLXxiH-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eHe55D351YFknPJLXxiH-39" target="eHe55D351YFknPJLXxiH-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eHe55D351YFknPJLXxiH-39" value="Yes" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="410" y="290" width="80" height="80" as="geometry" />
+        <mxCell id="eHe55D351YFknPJLXxiH-39" value="Yes" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="415" y="235" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eHe55D351YFknPJLXxiH-45" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;In the Google Form, the election&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;day cure &lt;span style=&quot;background-color: initial;&quot;&gt;data&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;entry team&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;will attach&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;data file. We&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;will be&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;closely&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;monitoring&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;the i&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;nput&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;on election&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;day, so&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;that when&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;we&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;receive&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;new data,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;we will&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;kickoff&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;the data&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;cleaning process,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;complete the&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;voter f&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ile match,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;and finally&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;send to VAN&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;as a saved list.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="495" y="400" width="250" height="130" as="geometry" />
+        <mxCell id="eHe55D351YFknPJLXxiH-45" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;In the Google Form, the election&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;day cure &lt;span style=&quot;background-color: initial;&quot;&gt;data&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;entry team&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;will attach&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;data file. We&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;will be&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;closely&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;monitoring&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;the i&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;nput&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;on election&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;day, so&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;that when&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;we&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;receive&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;new data,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;we will&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;kickoff&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;the data&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;cleaning process,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;complete the&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;voter f&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ile match,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;and finally&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;send to VAN&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;as a saved list.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="495" y="330" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="eHe55D351YFknPJLXxiH-46" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
-          <mxGeometry x="90" y="550" width="715" height="8" as="geometry" />
+        <mxCell id="eHe55D351YFknPJLXxiH-46" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="1" vertex="1">
+          <mxGeometry x="82.5" y="460" width="715" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="eHe55D351YFknPJLXxiH-49" value="Receiving one off rejected ballot data?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="390" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eHe55D351YFknPJLXxiH-49" target="Q5jYi_wJwa7cGK_dWXh--5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="445" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="446" y="550" />
+              <mxPoint x="446" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eHe55D351YFknPJLXxiH-49" value="New data is submitted on the Google Form" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="385" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q5jYi_wJwa7cGK_dWXh--5" target="Q5jYi_wJwa7cGK_dWXh--13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q5jYi_wJwa7cGK_dWXh--5" target="Q5jYi_wJwa7cGK_dWXh--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--5" value="Are the columns named correctly i.e. first_name, last_name, etc." style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="370" y="570" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q5jYi_wJwa7cGK_dWXh--6" target="Q5jYi_wJwa7cGK_dWXh--11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="605" />
+              <mxPoint x="665" y="605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--6" value="Yes" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="555" y="565" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--11" value="Kickoff the&lt;div&gt;Python cleaning script&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="657.5" y="557.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q5jYi_wJwa7cGK_dWXh--13" target="Q5jYi_wJwa7cGK_dWXh--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--13" value="No" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="255" y="565" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--15" value="Rename the columns before kicking off the Python script" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="115" y="557.5" width="100" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q5jYi_wJwa7cGK_dWXh--15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="445" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="165" y="680" />
+              <mxPoint x="445" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--20" value="Python cleaning script will&lt;div&gt;standardize columns so that&amp;nbsp;&lt;/div&gt;&lt;div&gt;they are in the correct format&lt;/div&gt;&lt;div&gt;to be fed into the voter file match.&lt;/div&gt;&lt;div&gt;Script will be able to handle&lt;/div&gt;&lt;div&gt;CSV,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Excel, and Google&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Spreadsheet formats.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="670" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--24" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="91.25" y="790" width="715" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q5jYi_wJwa7cGK_dWXh--25" target="Q5jYi_wJwa7cGK_dWXh--40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--25" value="Output data goes into a Google sheet." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="237.75" y="850" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--26" value="The same Google sheet&lt;div&gt;will be overwritten every time&lt;/div&gt;&lt;div&gt;the Python script is run. If&lt;/div&gt;&lt;div&gt;formatting or something looks&lt;/div&gt;&lt;div&gt;off, we can fix in this sheet or&lt;/div&gt;&lt;div&gt;copy&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;and paste data into here&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;manually&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(rather than trying&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;to trouble&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;shoot Python)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="208.75" y="912" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--32" value="Python Script Successful" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="73.75" y="820" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q5jYi_wJwa7cGK_dWXh--33" target="Q5jYi_wJwa7cGK_dWXh--25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--33" value="Python Script Fails" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="73.75" y="900" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.009;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q5jYi_wJwa7cGK_dWXh--32" target="Q5jYi_wJwa7cGK_dWXh--25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="298.75" y="874" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q5jYi_wJwa7cGK_dWXh--40" target="Q5jYi_wJwa7cGK_dWXh--44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--40" value="Google Sheets reads to BQ table" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="377.75" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q5jYi_wJwa7cGK_dWXh--44" target="Q5jYi_wJwa7cGK_dWXh--47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--44" value="Kickoff the Voter File Match in Portal Manually" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="482.75" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q5jYi_wJwa7cGK_dWXh--47" target="Q5jYi_wJwa7cGK_dWXh--51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--47" value="Saved&amp;nbsp;&lt;div&gt;Search Created in VAN&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="623.75" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--51" value="Mark as &quot;Done&quot; on Sheet" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="721.25" y="840" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
