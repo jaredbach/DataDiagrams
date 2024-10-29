@@ -70,8 +70,8 @@
             <mxPoint x="255" y="455" as="sourcePoint" />
             <mxPoint x="240" y="155" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="155" y="395" />
-              <mxPoint x="155" y="155" />
+              <mxPoint x="190" y="395" />
+              <mxPoint x="190" y="155" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -197,7 +197,10 @@
           <mxGeometry x="721.25" y="840" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q5jYi_wJwa7cGK_dWXh--55" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Election Day Cure Voter File Match Data Flow&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="180" height="50" as="geometry" />
+          <mxGeometry x="20" y="10" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--56" value="Google Sheet has data&lt;div&gt;validation&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;checks&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;to help&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ensure users are inputting&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;good data but will still be run&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;through Python script for&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;optimized cleaning.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="115" width="170" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
