@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="qNMR5LJq7EP5DdgZM7eB">
-    <mxGraphModel dx="1434" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,7 +159,7 @@
           <mxGeometry x="221.5" y="869" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q5jYi_wJwa7cGK_dWXh--26" value="The same Google sheet&lt;div&gt;will be overwritten every time&lt;/div&gt;&lt;div&gt;the Python script is run. If&lt;/div&gt;&lt;div&gt;formatting or something looks&lt;/div&gt;&lt;div&gt;off, we can fix in this sheet or&lt;/div&gt;&lt;div&gt;copy&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;and paste data into here&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;manually&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(rather than trying&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;to trouble&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;shoot Python)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="192.5" y="931" width="180" height="130" as="geometry" />
+          <mxGeometry x="195" y="932" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Q5jYi_wJwa7cGK_dWXh--32" value="Python Script Successful" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="57.5" y="839" width="100" height="60" as="geometry" />
@@ -213,6 +213,9 @@
         </mxCell>
         <mxCell id="Q5jYi_wJwa7cGK_dWXh--58" value="Mark as &quot;Done&quot; on Sheet" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="742.5" y="929" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5jYi_wJwa7cGK_dWXh--64" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Notes:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Join on the&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;support&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;table&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Create or replace&lt;/div&gt;&lt;div&gt;table without VAN IDs&lt;/div&gt;&lt;div&gt;and then join after&lt;/div&gt;&lt;div&gt;voter file match&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="939" width="140" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
